@@ -1,0 +1,270 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 11.5% 0 12.5%;
+    text-align: center;
+  }
+}
+
+nav {
+  background-color: #1A253A;
+  padding: 10%;
+}
+
+header {
+  background: #F5C9BA url("../images/LasVegasNightlife.jpg") center center no-repeat;
+	background-size: cover;
+	color:white;
+}
+
+section {
+  padding: 100px 20px;
+}
+
+img.logopic {
+    margin-left: -60%;
+    width:125px;
+    height:125px;
+}
+
+ li{
+  padding-right: 19px;
+}
+
+ a:hover { 
+  color: #f65;
+  text-decoration: none;
+}
+
+nav.navbar {
+  padding: 4.75%;
+height: 12%;
+}
+
+footer { 
+  padding: 3%;
+background-color: #DB314A;
+height: 20%;
+}
+
+.blue-bg {
+  background-color: #C8EBF7;
+}
+
+.pink-bg{
+	background-color: #F5C9BA;
+}
+
+.nav-link-Away-Jerseys{
+  color: white;
+  font-variant: small-caps;
+}
+
+.nav-link-Home-Jerseys{
+  color: white;
+  font-variant: small-caps;
+}
+
+.nav-link-about {
+  color: #DB314A;
+  font-weight: bold;
+}
+
+.aboutitem {
+  margin-left: 0%;
+}
+
+.btn {
+  border-radius: 2px;
+  font-variant: small-caps;
+  color: black;
+  font-family: "Times New Roman", georgia;
+  font-size: 20px;
+  background: #ffffff;
+  padding: 20px 20px 20px 20px;
+  text-decoration: none;
+  opacity: 0.80;
+}
+
+.btn:hover {
+  text-decoration: none;
+  opacity: 1;
+}
+
+.Learn-More{
+  color: black;
+}
+
+.navbar-brand{
+  max-width: 100%;
+    height: auto;
+}
+
+section.headertext{
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+figure.AwayJerseyFront {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 650px;
+	color: black;
+}
+
+figure.AwayJerseyBack {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 650px;
+	color: black;
+}
+
+figure.HomeJerseyFront {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 650px;
+	color: black;
+}
+
+figure.HomeJerseyBack {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 650px;
+	color: black;
+}
+
+img{
+    width: 204px;
+    height: 300px;  
+}
+.caption {
+    display: block;
+}
+
+p{
+  font: 2.5em "Times New Roman", georgia;
+  text-align: center;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+h1{
+  font: bold 3em "Times New Roman", georgia;
+  color: black;
+  font-variant: small-caps;
+  margin: 0 0 0 5%;
+}
+
+h2{
+  font: 1.3em "Times New Roman", georgia;
+  font-variant: small-caps;
+  color: black;
+  text-align: center;
+}
+
+h4{
+  font: bold 8em "Times New Roman", georgia;
+  text-align: center;
+}
+
+h5{
+  text-align: center;
+}
+
+h6{
+  font: 1em "Times New Roman", georgia;
+  text-align: center;
+}
+
+h3{
+font: 1.5em "Times New Roman", georgia;
+}
+
+.owner-name{
+  color: #DB314A;
+font-size: 3vw;
+font-style: italic;
+font-family: bold georgia;
+text-align: left;
+margin: -30% 0 20% 9%;
+}
+
+.owner-text{
+  font-size: 1.5vw;
+  margin: -18% 10% 16% 45%;
+
+}
+
+.aboutpg1{
+  font-size: 1.3vw;
+  margin: 2% 10% 3% 7%;
+}
+
+img.owner{
+  right: 0;
+  width: 300px;
+  height: 300px;
+  margin: 3% 0 0 10%;
+}
+
+.donate{
+  color:white;
+}
+
+.LVRM{
+  color:#f65;
+}
+
+.LVRM:hover{
+  text-decoration: underline;
+}
+
+.donatebtn {
+  border-radius: 2px;
+  font-variant: small-caps;
+  color: white;
+  font-family: "Times New Roman", georgia;
+  font-size: 20px;
+  background: #1A253A;
+  padding: 20px 20px 20px 20px;
+  text-decoration: none;
+  opacity: 0.80;
+  margin: 5% 20% 0 43.25%;
+}
+
+.donatebtn:hover {
+  text-decoration: none;
+  opacity: 1;
+}
+
+.social{
+  right: 0;
+  width: 2%;
+  height: auto;
+  margin: 0% -7% 1% 19.5%;
+}
+
+.footerfollow{
+  font: bold 1.5em "Times New Roman", georgia;
+  text-align: center;
+}
+
+.footerlogo{
+  right: 0;
+  width: 100px;
+  height: 100px;
+  margin: 0 0 -3% 45.9%;
+}
