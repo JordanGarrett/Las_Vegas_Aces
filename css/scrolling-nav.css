@@ -26,14 +26,10 @@ header {
 	color:white;
 }
 
-section {
-  padding: 100px 20px;
-}
-
 img.logopic {
     margin-left: -60%;
-    width:125px;
-    height:125px;
+    width:75px;
+    height:75px;
 }
 
  li{
@@ -46,14 +42,12 @@ img.logopic {
 }
 
 nav.navbar {
-  padding: 4.75%;
 height: 12%;
 }
 
 footer { 
-  padding: 3%;
 background-color: #DB314A;
-height: 20%;
+
 }
 
 .blue-bg {
@@ -195,29 +189,30 @@ font: 1.5em "Times New Roman", georgia;
 
 .owner-name{
   color: #DB314A;
-font-size: 3vw;
+font-size: 40px;
 font-style: italic;
 font-family: bold georgia;
 text-align: left;
-margin: -30% 0 20% 9%;
+margin:;
 }
 
 .owner-text{
-  font-size: 1.5vw;
-  margin: -18% 10% 16% 45%;
-
+font-size: 1.5vw;
+padding-left: px;
+margin-left: 100px;
+margin-right: -100px;
 }
 
 .aboutpg1{
   font-size: 1.3vw;
-  margin: 2% 10% 3% 7%;
+  padding-bottom: 30px;
 }
 
 img.owner{
   right: 0;
-  width: 300px;
-  height: 300px;
-  margin: 3% 0 0 10%;
+  width: 400px;
+  height: 400px;
+  margin-left: -100px;
 }
 
 .donate{
@@ -242,8 +237,11 @@ img.owner{
   padding: 20px 20px 20px 20px;
   text-decoration: none;
   opacity: 0.80;
-  margin: 5% 20% 0 43.25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 
 .donatebtn:hover {
   text-decoration: none;
@@ -252,19 +250,54 @@ img.owner{
 
 .social{
   right: 0;
-  width: 2%;
-  height: auto;
-  margin: 0% -7% 1% 19.5%;
+  width: ;
+  height: 50px;
+  width: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
 }
 
 .footerfollow{
   font: bold 1.5em "Times New Roman", georgia;
+  color: #ffffff;
   text-align: center;
+  padding-bottom: 30px;
+  padding-top: 30px;
 }
 
 .footerlogo{
   right: 0;
   width: 100px;
   height: 100px;
-  margin: 0 0 -3% 45.9%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+section {
+  padding: 76px 0;
+  overflow: hidden;
+}
+
+.section-bg {
+  background: #024dce;
+}
+
+.section-title {
+  padding-bottom: 30px;
+}
+
+.section-title h2 {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #000000;
+}
+
+.section-title p {
+  margin-bottom: 0;
 }
