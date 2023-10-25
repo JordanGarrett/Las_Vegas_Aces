@@ -36,12 +36,8 @@ img.logopic {
 }
 
  a:hover { 
-  color: #f65;
+  color: rgb(241, 33, 33);
   text-decoration: none;
-}
-
-nav.navbar {
-height: 12%;
 }
 
 footer { 
@@ -68,8 +64,7 @@ background-color: #DB314A;
 }
 
 .nav-link-about {
-  color: #DB314A;
-  font-weight: bold;
+  color: #ffffff;
 }
 
 .aboutitem {
@@ -107,37 +102,6 @@ section.headertext{
   padding-bottom: 100px;
 }
 
-figure.AwayJerseyFront {
-    vertical-align: top;
-    display: inline-block;
-    text-align: center;
-    width: 650px;
-	color: black;
-}
-
-figure.AwayJerseyBack {
-    vertical-align: top;
-    display: inline-block;
-    text-align: center;
-    width: 650px;
-	color: black;
-}
-
-figure.HomeJerseyFront {
-    vertical-align: top;
-    display: inline-block;
-    text-align: center;
-    width: 650px;
-	color: black;
-}
-
-figure.HomeJerseyBack {
-    vertical-align: top;
-    display: inline-block;
-    text-align: center;
-    width: 650px;
-	color: black;
-}
 
 img{
     width: 204px;
@@ -180,6 +144,7 @@ h5{
 h6{
   font: 1em "Times New Roman", georgia;
   text-align: center;
+  color: #ffffff;
 }
 
 h3{
