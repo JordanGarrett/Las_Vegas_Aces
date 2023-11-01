@@ -148,7 +148,7 @@ h6{
 }
 
 h3{
-font: 1.5em "Times New Roman", georgia;
+font: 35px "Times New Roman", georgia;
 }
 
 .owner-name{
@@ -156,19 +156,18 @@ font: 1.5em "Times New Roman", georgia;
 font-size: 40px;
 font-style: italic;
 font-family: bold georgia;
-text-align: left;
-margin:;
+text-align: center;
 }
 
 .owner-text{
-font-size: 1.5vw;
+font-size: 20px;
 padding-left: px;
 margin-left: 100px;
 margin-right: -100px;
 }
 
 .aboutpg1{
-  font-size: 1.3vw;
+  font-size: 30px;
   padding-bottom: 30px;
 }
 
